@@ -1,0 +1,8 @@
+c:\users\oo128\documents\visual studio 2012\Projects\WindowsFormsPractice\WindowsFormsPractice\bin\Debug\WindowsFormsPractice.exe.config
+c:\users\oo128\documents\visual studio 2012\Projects\WindowsFormsPractice\WindowsFormsPractice\bin\Debug\WindowsFormsPractice.exe
+c:\users\oo128\documents\visual studio 2012\Projects\WindowsFormsPractice\WindowsFormsPractice\bin\Debug\WindowsFormsPractice.pdb
+c:\users\oo128\documents\visual studio 2012\Projects\WindowsFormsPractice\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.Form1.resources
+c:\users\oo128\documents\visual studio 2012\Projects\WindowsFormsPractice\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.Properties.Resources.resources
+c:\users\oo128\documents\visual studio 2012\Projects\WindowsFormsPractice\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.csproj.GenerateResource.Cache
+c:\users\oo128\documents\visual studio 2012\Projects\WindowsFormsPractice\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.exe
+c:\users\oo128\documents\visual studio 2012\Projects\WindowsFormsPractice\WindowsFormsPractice\obj\Debug\WindowsFormsPractice.pdb
